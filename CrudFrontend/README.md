@@ -29,8 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Install modules
 First navigate terminal into project folder and then enter below command for install.
 
-'rxjs' - npm install --save rxjs
+`rxjs` - npm install --save rxjs
 
-'rxjs-compact' - npm install --save rxjs-compat
+`rxjs-compact` - npm install --save rxjs-compat
 
-'bootstrap' - npm install bootstrap
+`bootstrap` - npm install bootstrap
